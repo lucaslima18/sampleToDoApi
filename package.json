@@ -1,0 +1,23 @@
+{
+  "name": "sampletodoapi",
+  "version": "1.0.0",
+  "description": "ToDo Api for personal organization",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node ./src/service.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucaslima18/sampleToDoApi.git"
+  },
+  "author": "Lucas Amorim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucaslima18/sampleToDoApi/issues"
+  },
+  "homepage": "https://github.com/lucaslima18/sampleToDoApi#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
